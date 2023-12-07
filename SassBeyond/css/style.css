@@ -193,7 +193,7 @@ label {
 /* button style */
 
 .btn {
-	-moz-user-select: none;
+	
 	background: #6161eb;
 	border: 2px solid #6161eb;
 	border-radius: 50px;
